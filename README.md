@@ -82,7 +82,7 @@ Here you'll find my portfolio of data analytics projects, certifications, and te
 
 ## 📂 Portfolio Overview
 
-🌟 **Explore all my projects** → [Data Analytics Projects Repository](link-to-projects)
+🌟 **Explore all my projects** → [Data Analytics Projects Repository](https://github.com/Vasu-Agrawal-04/Portfolio-Projects)
 
 ---
 
