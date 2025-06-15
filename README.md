@@ -29,11 +29,12 @@ Here you'll find my portfolio of data analytics projects, certifications, and te
 
 
 🎓 Certifications:-
-View all my certifications in the Certifications Repository. Click here to view my certifications repo. 
+View all my certifications in the Certifications Repository.
 
 
 🌟 Portfolio Overview:-
-📁 Complete Data Analytics Portfolio. Click here to view the entire Data Analytics portfolio repo.
+View all my projects in the Data Analytics Projects Repository.
+
 
 📫 Let's Connect!
 
