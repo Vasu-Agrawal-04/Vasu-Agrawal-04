@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Vasu Agrawal 🚀 Entry-level Data Analyst
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Data+is+the+new+oil...;Transforming+Data+into+Actionable+Insights...;Python+%7C+SQL+%7C+PowerBI+%7C+Excel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Data+is+the+new+oil...;Transforming+Data+into+Insights...;Python+%7C+SQL+%7C+PowerBI+%7C+Excel" alt="Typing SVG" />
 </div>
 
 ---
