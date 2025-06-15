@@ -76,7 +76,7 @@ Here you'll find my portfolio of data analytics projects, certifications, and te
 
 ## 🏆 Certifications
 
-📜 **View all my certifications** → [Certifications Repository](link-to-certifications)
+📜 **View all my certifications** → [Certifications Repository](https://github.com/Vasu-Agrawal-04/Certifications-Badges)
 
 ---
 
