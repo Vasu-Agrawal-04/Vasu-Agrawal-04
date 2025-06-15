@@ -97,18 +97,6 @@ Here you'll find my portfolio of data analytics projects, certifications, and te
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vasu-Agrawal-04&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasu-Agrawal-04&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
   
 ### 💫 *"Turning data into insights, one analysis at a time"* 📊✨
 
@@ -116,6 +104,4 @@ Here you'll find my portfolio of data analytics projects, certifications, and te
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vasu-Agrawal-04&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
+
