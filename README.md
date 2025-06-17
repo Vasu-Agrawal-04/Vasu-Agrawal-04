@@ -72,6 +72,11 @@ Here you'll find my portfolio of data analytics projects, certifications, and te
 - 📋 Booking patterns and cancellation analysis
 - 💼 Revenue optimization strategies
 
+###🏏 Vendor Perfomrmance Analysis
+
+📅Vendor Performance Dashboard: Interactive Power BI analytics tracking sales performance, purchasing patterns, and vendor comparisons
+🎯Bulk Purchase Optimization: Data analysis identifying optimal purchase volumes and cost-saving opportunities through bulk procurement strategies
+⚙️Strategic Insights: Actionable recommendations for promotional pricing adjustments and vendor selection based on performance metrics and correlation analysis
 ---
 
 ## 🏆 Certifications
